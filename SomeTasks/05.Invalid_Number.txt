@@ -9,7 +9,7 @@ namespace _05.Invalid_Number
 
             if (!isValid)
             {
-                Console.WriteLine("Hristian");
+                Console.WriteLine("Hristian and Pesho");
             }
         }
     }
